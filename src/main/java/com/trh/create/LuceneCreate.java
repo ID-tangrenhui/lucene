@@ -52,7 +52,7 @@ public class LuceneCreate {
 	//7 提交
 	//8 关闭
 //	============================================
-	//创建索引
+	//创建索引  
 	@Test
 	public void testCreate1() throws Exception{
 		//1,创建文档
